@@ -53,7 +53,7 @@ body {
 
 .panel.active h3 {
     opacity: 1;
-    transition: opacity 1.3s ease-in 0.3s;
+    transition: opacity 1.3s ease-in 0.2s;
 }
 
 @media(max-width: 480px) {
